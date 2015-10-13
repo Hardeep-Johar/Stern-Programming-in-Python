@@ -1,1 +1,2 @@
-# NYU-Python
+## Programming in Python (Spring 2016)
+
