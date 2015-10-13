@@ -9,3 +9,4 @@ Frankly, everyone. Computer programs are ubiquitous in our modern world - how ma
 ###Course structure
 ####Part 1: The Fundamentals of Programming
 * *What you will learn*: the basics of programming in Python
+* *What we will do*:
