@@ -1,5 +1,5 @@
 ## Programming in Python (Spring 2016)
-###Summary: What we will cover
+###What we will cover
 * **Python**: A realtively easy but powerful programming language
 * **Web scraping**: Gathering data from web pages (using Python)
 * **Data analysis**: Using python for data analysis
